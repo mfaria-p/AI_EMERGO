@@ -52,3 +52,7 @@ if __name__ == "__main__":
     # You can change board_size here dynamically
     app = BoardGameGUI(root, board_size=6) 
     root.mainloop()
+    
+
+    #olaaa
+    
